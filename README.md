@@ -1,2 +1,0 @@
-# instances
-MDEVRPTW instances
